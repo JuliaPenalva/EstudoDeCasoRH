@@ -14,4 +14,8 @@ Quando a empresa identificar um funcionário com probabilidade alta de pedir dem
 
 Portanto o objetivo dessa análise é construir um modelo que consiga prever os funcionários com maiores chances de saírem da empresa, identificando os principais fatores para isso e procurar uma forma de reverter isso, quando se apresentar vantajoso para a companhia.
 
+### Os dados
 A base de dados utilizada nesse estudo de caso é da IBM, estando disponibilizado no Kaggle. A base contém dados de 1.470 empregados, listando informações como o seu departamento, seu nível de educação, cargo, gênero, salário, entre outros dados.
+
+### Documentação no Medium
+Esse estudo de caso foi documentado no Medium, onde as informações foram organizadas sem tanto código e explicando os pensamentos por trás do código em geral. 
