@@ -18,4 +18,4 @@ Portanto o objetivo dessa análise é construir um modelo que consiga prever os 
 A base de dados utilizada nesse estudo de caso é da IBM, estando disponibilizado no Kaggle. A base contém dados de 1.470 empregados, listando informações como o seu departamento, seu nível de educação, cargo, gênero, salário, entre outros dados.
 
 ### Documentação no Medium
-Esse estudo de caso foi documentado no Medium, onde as informações foram organizadas sem tanto código e explicando os pensamentos por trás do código em geral. 
+Esse estudo de caso foi documentado no [Medium](https://medium.com/@penaalvajulia/estudo-de-caso-departamento-de-rh-ed3209feb7a4), onde as informações foram organizadas sem tanto código e explicando os pensamentos por trás do código em geral. 
